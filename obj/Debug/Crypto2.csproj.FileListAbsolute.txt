@@ -1,0 +1,19 @@
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\bin\Debug\Crypto2.exe.config
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\bin\Debug\Crypto2.exe
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\bin\Debug\Crypto2.pdb
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto2.csprojResolveAssemblyReference.cache
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto2.csproj.GenerateResource.Cache
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto2.exe
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto2.pdb
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto.BaseForm.resources
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto2\Crypto2\obj\Debug\Crypto.Properties.Resources.resources
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\bin\Debug\Crypto2.exe.config
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\bin\Debug\Crypto2.exe
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\bin\Debug\Crypto2.pdb
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto2.csprojAssemblyReference.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto.BaseForm.resources
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto.Properties.Resources.resources
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto2.csproj.GenerateResource.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto2.csproj.CoreCompileInputs.cache
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto2.exe
+C:\_\my\дельфин\102_19\Crypto2\Crypto2\Crypto2\obj\Debug\Crypto2.pdb
